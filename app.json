@@ -1,5 +1,5 @@
 {
-  "name":"V-6-BMW-XMD",
+  "name":"V-6-ⒶⓋⒺ-XMD",
   "description":"Deploy now your bot, Bmw was developed by Ibrahim Adams.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/fd124f7e9271111c3bcc1.jpg",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":" 𝐁𝐌𝐖-𝐗𝐌𝐃",
+      "value":" ⒶⓋⒺ~𝐗𝐌𝐃",
       "required":false
 
     } ,
